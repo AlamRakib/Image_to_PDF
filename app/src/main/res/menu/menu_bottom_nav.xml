@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_menu_images"
+        android:icon="@drawable/ic_baseline_image_24"
+        android:title="Images List"
+        android:visible="true"
+
+        >
+    </item>
+
+    <item
+        android:id="@+id/bottom_menu_pdfs"
+        android:icon="@drawable/ic_baseline_picture_as_pdf_24"
+        android:title="Pdfs List"
+        >
+
+    </item>
+
+
+</menu>
+
+
